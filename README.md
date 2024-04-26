@@ -1,7 +1,5 @@
 # Dot-Voice-Assistant
 
-# Dot Voice Assistant Application
-
 ## :rocket:  Overview
 `Dot Voice Assistant Application` is a sophisticated, voice-controlled application developed using modern web technologies such as Vite, React, MUI Joy, Annyang, and JavaScript. 
 
